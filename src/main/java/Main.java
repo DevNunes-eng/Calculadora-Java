@@ -1,4 +1,6 @@
-import Classes.Operation;
+package main.java;
+
+import main.java.br.com.devnunes.classes.Operation;
 
 import java.util.Arrays;
 import java.util.Scanner;

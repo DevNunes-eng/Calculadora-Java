@@ -1,6 +1,5 @@
-package Classes;
+package main.java.br.com.devnunes.classes;
 
-import java.util.function.BiFunction;
 import java.util.stream.LongStream;
 
 public enum Operation {
