@@ -1,6 +1,6 @@
 # 🖩 Java Calculator - Branch: novasatualizações3
 
-Este repositório contém a evolução da calculadora Java, focada em precisão matemática e processamento de dados moderno. Esta versão específica, integrada na branch `novasatualizações2`, introduz a migração completa para `BigDecimal` e o uso extensivo de `Java Streams`.
+Este repositório contém a evolução da calculadora Java, focada em precisão matemática e processamento de dados moderno. Esta versão específica, integrada na branch `novasatualizações3`, introduz a migração completa para `BigDecimal` e o uso extensivo de `Java Streams`.
 
 ---
 
